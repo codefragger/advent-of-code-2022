@@ -5,8 +5,9 @@ import advent.of.code.solutions.*;
 public class Executor {
 
     public static void main(String[] args) {
-        BaseSolution soln = new Day2();
+        BaseSolution soln = new Day6();
         soln.run();
+
     }
 
 }
